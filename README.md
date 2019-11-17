@@ -1,4 +1,5 @@
 #labspy03kiki05
+
 ##latihan2
  ## Random
 	Bilangan acak(Random) adalah bilangan yang kemunculannya terjadi secara acak.
@@ -19,10 +20,10 @@ Bilangan acak ini untuk keperluan simulasi.
 	## Perulangan i dengan nilai awal variable start, nilai akhir variable stop dan step variable step
 
    * Contoh gambar
-![input end](https://github.com/kiki05/labspy03kiki05/blob/master/gambar/Latihan1.PNG)
+![input end](https://github.com/dilah199/labspy03kiki05/blob/master/gambar/Latihan1.PNG)
    * Contoh gambar hasil run
 
-![output end](https://github.com/kiki05/labspy03kiki05/blob/master/gambar/RUNLATIHAN1.PNG)
+![output end](https://github.com/dilah199/labspy03kiki05/blob/master/gambar/RUNLATIHAN1.PNG)
 
 
 ## Latihan2
@@ -40,11 +41,11 @@ Bilangan acak ini untuk keperluan simulasi.
   ## Mencetak bilangan terbesar
 
     * Contoh gambar
-![input end](https://github.com/kiki05/labspy03kiki/blob/master/gambar/Latihan2.PNG)
+![input end](https://github.com/dilah199/labspy03kiki/blob/master/gambar/Latihan2.PNG)
 
  ## Masukan angka 0 untuk berhenti
     * Contoh gambar Run
-![output end](https://github.com/kiki05/labspy03kiki/blob/master/gambar/RunLatihan2.PNG)
+![output end](https://github.com/dilah199/labspy03kiki/blob/master/gambar/RunLatihan2.PNG)
 
 
 # Program1
@@ -58,8 +59,8 @@ bulan berjalan usahanya.
 
    * Contoh gambar
 
-![input end](https://github.com/kiki05/labspy03kiki05/blob/master/gambar/Program1.PNG)
+![input end](https://github.com/dilah199/labspy03kiki05/blob/master/gambar/Program1.PNG)
 
    * Contoh hasil Run
 
-![output end](https://github.com/kiki05/labspy03kiki05/blob/master/gambar/RunProgram1.PNG)
+![output end](https://github.com/dilah199/labspy03kiki05/blob/master/gambar/RunProgram1.PNG)
