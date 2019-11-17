@@ -1,6 +1,5 @@
 # labspy03
-labspy03dila
-Latihan1
+##Latihan1
 Random
 Bilangan acak(Random) adalah bilangan yang kemunculannya terjadi secara acak.
 Bilangan acak yang di bangkitakan oleh komputer adalah bilangan acak semu(pseudo random number). Bilangan acak ini untuk keperluan simulasi. Berikut ini contoh bilangan acak (random) yang lebih kecil :
