@@ -20,7 +20,7 @@ Bilangan acak ini untuk keperluan simulasi.
 	## Perulangan i dengan nilai awal variable start, nilai akhir variable stop dan step variable step
 
    * Contoh gambar
-![input end](https://github.com/dilah199/labspy03dila/blob/master/gambar/Latihan1.PNG)
+https://github.com/KikiPanceko05/labspy03/blob/master/latihan1.PNG
    * Contoh gambar hasil run
 
 ![output end](https://github.com/dilah199/labspy03dila/blob/master/gambar/RUNLATIHAN1.PNG)
